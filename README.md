@@ -5,7 +5,7 @@ This guide explains how to bypass Swiggy's security checks (tamper detection, ro
 ---
 ## Demo
 <video width="600" controls>
-  <source src="https://github.com/AnonAmit/swiggy-detection-bypass/raw/main/demo.mp4" type="video/mp4">
+  <source src="https://github.com/AnonAmit/swiggy-detection-bypass/raw/main/demo.webm" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
