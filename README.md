@@ -4,7 +4,8 @@ This guide explains how to bypass Swiggy's security checks (tamper detection, ro
 
 ---
 ## Demo
-https://github.com/AnonAmit/swiggy-detection-bypass/blob/main/demo.mp4
+<video src="https://github.com/AnonAmit/swiggy-detection-bypass/blob/main/demo.mp4" width="600" controls></video>
+
 
 ## Prerequisites (One-time Setup)
 
