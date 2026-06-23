@@ -97,3 +97,43 @@ Swiggy flags devices that create too many accounts ("Too many login attempts"). 
     *   **Swiggy Internal IDs:** It intercepts `SharedPreferences` to spoof Swiggy's specific tracking IDs (`adId`, `juspay_android_id`, `juspay_device_id`).
 
 Every time you run the `frida -U -f ...` command, Swiggy thinks you just bought a brand new phone and installed the app for the very first time.
+
+# Disclaimer
+
+## Legal Notice
+
+This tool is provided **for educational and authorized testing purposes only**. Users are solely responsible for ensuring their use complies with all applicable laws, regulations, and the terms of service of the applications they interact with.
+
+### Important:
+
+⚠️ **Unauthorized Access**: Using this tool to bypass security measures on applications you do not own or have explicit permission to test may violate:
+- Computer Fraud and Abuse Act (CFAA) in the United States
+- Computer Misuse Act (CMA) in the United Kingdom
+- Similar laws in other jurisdictions
+
+⚠️ **Terms of Service Violation**: Bypassing Swiggy's security checks likely violates their Terms of Service. Unauthorized use may result in:
+- Account suspension or permanent ban
+- Legal action by the service provider
+- Civil and/or criminal liability
+
+⚠️ **Liability**: The developers of this tool are **not responsible** for:
+- Unauthorized access to systems or accounts
+- Account bans, suspensions, or data loss
+- Legal consequences resulting from misuse
+- Any damages caused by using this tool
+
+### Authorized Use Only
+
+This tool should only be used:
+- On your own devices that you own or control
+- With explicit written permission from the application owner
+- For legitimate security research or authorized penetration testing
+- In a controlled laboratory environment for educational purposes
+
+### No Warranty
+
+This tool is provided "as-is" without any warranty of any kind, express or implied. Users assume all risk and responsibility for its use.
+
+---
+
+**By using this tool, you acknowledge and agree to this disclaimer.**
