@@ -3,6 +3,8 @@
 This guide explains how to bypass Swiggy's security checks (tamper detection, root/adb checks) and spoof device identifiers automatically on any PC using Frida.
 
 ---
+## Demo
+https://github.com/AnonAmit/swiggy-detection-bypass/blob/main/demo.mp4
 
 ## Prerequisites (One-time Setup)
 
