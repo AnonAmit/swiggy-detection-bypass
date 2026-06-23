@@ -6,10 +6,11 @@ This guide explains how to bypass Swiggy's security checks (tamper detection, ro
 ## Demo
 <video width="600" controls>
   <source src="https://github.com/AnonAmit/swiggy-detection-bypass/raw/main/demo.webm" type="video/webm">
-  Your browser does not support the video tag.
+  <source src="https://github.com/AnonAmit/swiggy-detection-bypass/raw/main/demo.mp4" type="video/mp4">
 </video>
-
-## Prerequisites (One-time Setup)
+[![Watch Demo](https://img.shields.io/badge/Play%20Demo-Video-blue?logo=github)](https://github.com/AnonAmit/swiggy-detection-bypass/raw/main/demo.mp4)
+ 
+ ## Prerequisites (One-time Setup)
 
 You need three things installed on your PC:
 1.  **Python 3** (Download from python.org)
